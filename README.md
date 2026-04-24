@@ -1,25 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:2563EB,100:9333EA&height=230&section=header&text=Suresh%20Reddy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=20&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0F172A,70:2563EB,100:9333EA&text=Suresh%20Reddy&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Developer%20Tools%20%E2%80%A2%20Full-Stack%20Apps%20%E2%80%A2%20AI%20Workflows&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+clean,+useful,+production-minded+software.;CLI+tools.+Full-stack+apps.+AI-powered+workflows.;TypeScript+%7C+Python+%7C+C+%7C+Next.js+%7C+FastAPI" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+clean+and+useful+software;CLI+Tools+%E2%80%A2+Full-Stack+Apps+%E2%80%A2+AI+Workflows;TypeScript+%E2%80%A2+Python+%E2%80%A2+C+%E2%80%A2+FastAPI+%E2%80%A2+Next.js" alt="Typing animation" />
-
-<br /><br />
-
 <a href="https://github.com/sureshreddy197">
-  <img src="https://komarev.com/ghpvc/?username=sureshreddy197&label=Profile%20Views&color=2563eb&style=for-the-badge" />
-</a>
-<a href="https://github.com/sureshreddy197?tab=followers">
-  <img src="https://img.shields.io/github/followers/sureshreddy197?label=Followers&style=for-the-badge&color=38bdf8&labelColor=020617" />
-</a>
-<a href="https://github.com/sureshreddy197?tab=repositories">
-  <img src="https://img.shields.io/badge/Open%20Source-Projects-9333EA?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/GitHub-sureshreddy197-020617?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/sureshreddy63">
   <img src="https://img.shields.io/badge/LinkedIn-Suresh%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=sureshreddy197&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" />
 
 </div>
 
@@ -27,227 +20,236 @@
 
 <div align="center">
 
-## 👋 Hey, I'm Suresh Reddy
+## Building software that feels clean, useful, and sharp.
 
-### I build practical software with clean code, sharp UI, and strong developer experience.
+I’m a developer focused on **developer tools**, **full-stack products**,  
+**CLI applications**, and **AI-assisted productivity workflows**.
 
-I enjoy creating **developer tools**, **CLI applications**, **full-stack products**, and **AI-powered workflows**.  
-My projects focus on being simple to use, easy to maintain, and useful in real-world scenarios.
+I like projects that are not just functional, but also well-structured, documented, and pleasant to use.
 
 </div>
 
 ---
-
-## 🧠 About Me
-
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=sureshreddy197&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=9333EA&text_color=E5E7EB" />
-
-- 🚀 Building practical projects with **TypeScript, Python, C, FastAPI, and Next.js**
-- 🛠️ Interested in **developer tooling, automation, AI assistants, and clean architecture**
-- 🎯 I care about **readability, performance, documentation, and user experience**
-- 🧩 I like turning ideas into polished, usable products
-- 📚 Always improving through real projects and consistent execution
-
-<br clear="right" />
-
----
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+### Core Stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,c,html,css,bash" />
-
-<br /><br />
-
-### Frameworks & Tools
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,nodejs,sqlite,postgres,prisma,docker,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,c,nextjs,react,fastapi,nodejs,postgres,sqlite,prisma,docker,git,github,linux,vscode" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Signature Projects
 
----
+<div align="center">
 
-### ⚙️ CMDforge
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38BDF8,100:9333EA" width="100%" />
 
-> A polished Python CLI toolkit for building modern terminal-first applications.
+</div>
+
+### CMDforge
 
 <p align="center">
   <a href="https://github.com/sureshreddy197/CMDforge">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sureshreddy197&repo=CMDforge&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB&icon_color=9333EA" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sureshreddy197&repo=CMDforge&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&icon_color=9333EA" />
   </a>
 </p>
-
-**Highlights**
-
-- Beautiful CLI experience with **Typer** and **Rich**
-- Project scaffolding for CLI apps
-- Config and cache management
-- Testing, linting, typing, and pre-commit setup
-
----
-
-### 🧠 Fuzzy Engine
-
-> A modern fuzzy logic library for JavaScript and TypeScript.
 
 <p align="center">
-  <a href="https://github.com/sureshreddy197/fuzzy-engine">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sureshreddy197&repo=fuzzy-engine&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB&icon_color=9333EA" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=FACC15" />
+  <img src="https://img.shields.io/badge/CLI%20Toolkit-020617?style=for-the-badge&logo=gnometerminal&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Developer%20Experience-020617?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-**Highlights**
-
-- Type-safe fuzzy logic API
-- Zero dependencies
-- Custom membership functions
-- Works with Node.js, browsers, Deno, Bun, and edge runtimes
+A polished Python CLI toolkit designed for building ergonomic terminal-first applications with clean commands, config handling, cache management, and project scaffolding.
 
 ---
 
-### 🛠️ Issue Flow
-
-> A full-stack issue tracker for creating, assigning, discussing, and managing tasks.
+### Issue Flow
 
 <p align="center">
   <a href="https://github.com/sureshreddy197/issue-flow">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sureshreddy197&repo=issue-flow&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB&icon_color=9333EA" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sureshreddy197&repo=issue-flow&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&icon_color=9333EA" />
   </a>
 </p>
 
-**Highlights**
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Prisma-020617?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
 
-- Built with **Next.js, React, TypeScript, Prisma, and PostgreSQL**
-- Authentication with NextAuth
-- Issue labels, comments, assignments, filters, and dashboard workflow
-- Clean full-stack project structure
+A modern full-stack issue tracker with authentication, labels, comments, assignments, filters, and a clean dashboard workflow.
 
 ---
 
-### 🤖 AI Workspace Assistant
+### Fuzzy Engine
 
-> A self-hosted productivity workspace powered by FastAPI, SQLite, OpenAI tool-calling, and optional MCP integrations.
+<p align="center">
+  <a href="https://github.com/sureshreddy197/fuzzy-engine">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sureshreddy197&repo=fuzzy-engine&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&icon_color=9333EA" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Zero%20Dependencies-020617?style=for-the-badge&logo=npm&logoColor=CB3837" />
+  <img src="https://img.shields.io/badge/Universal%20Runtime-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
+
+A lightweight fuzzy logic library for JavaScript and TypeScript with a type-safe API, custom membership functions, and zero dependencies.
+
+---
+
+### AI Workspace Assistant
 
 <p align="center">
   <a href="https://github.com/raghu-py/ai-workspace-assistant">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=raghu-py&repo=ai-workspace-assistant&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB&icon_color=9333EA" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=raghu-py&repo=ai-workspace-assistant&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&icon_color=9333EA" />
   </a>
 </p>
 
-**Highlights**
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-020617?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/SQLite-020617?style=for-the-badge&logo=sqlite&logoColor=003B57" />
+  <img src="https://img.shields.io/badge/OpenAI-020617?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=2496ED" />
+</p>
 
-- Notes, tasks, files, search, and assistant workflows
-- FastAPI backend with Jinja UI
-- SQLite persistence
-- Optional OpenAI and MCP tool support
+A self-hosted productivity workspace with notes, tasks, files, search, assistant workflows, optional OpenAI tool-calling, and MCP support.
 
 ---
 
-### 🔐 SecurePass CLI
-
-> A modular Python command-line password generator and strength analyzer.
+### SecurePass CLI
 
 <p align="center">
   <a href="https://github.com/sureshreddy197/securepass-cli">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sureshreddy197&repo=securepass-cli&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB&icon_color=9333EA" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sureshreddy197&repo=securepass-cli&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&icon_color=9333EA" />
   </a>
 </p>
-
-**Highlights**
-
-- Password generation
-- Strength analysis
-- Configurable password rules
-- Logging and unit testing support
-
----
-
-### 🎮 Quiz Game C
-
-> A console-based quiz game in C with categories, lifelines, scoring, and leaderboard support.
 
 <p align="center">
-  <a href="https://github.com/sureshreddy197/quiz-game-c">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=sureshreddy197&repo=quiz-game-c&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB&icon_color=9333EA" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=FACC15" />
+  <img src="https://img.shields.io/badge/Security-020617?style=for-the-badge&logo=shield&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/CLI-020617?style=for-the-badge&logo=gnometerminal&logoColor=38BDF8" />
 </p>
 
-**Highlights**
-
-- Category-based questions
-- 50-50 and skip lifelines
-- Streak scoring
-- Persistent leaderboard
+A modular command-line password generator and strength analyzer with configurable rules, logging, and testing support.
 
 ---
 
-## 📊 GitHub Analytics
+## Developer Identity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=sureshreddy197&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=9333EA&currStreakLabel=38BDF8" />
+<img src="https://img.shields.io/badge/Clean%20Architecture-020617?style=for-the-badge&logo=blueprint&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Readable%20Code-020617?style=for-the-badge&logo=readthedocs&logoColor=22C55E" />
+<img src="https://img.shields.io/badge/Polished%20UX-020617?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/Useful%20Products-020617?style=for-the-badge&logo=rocket&logoColor=F97316" />
 
-<br /><br />
+</div>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshreddy197&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB" />
+<br />
 
-<br /><br />
+<div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sureshreddy197&theme=tokyo-night&hide_border=true&bg_color=020617&color=38BDF8&line=9333EA&point=E5E7EB" />
+<table>
+<tr>
+<td align="center">
+<b>Build</b>
+<br />
+Practical tools and apps
+</td>
+<td align="center">
+<b>Refine</b>
+<br />
+Structure, UX, and DX
+</td>
+<td align="center">
+<b>Ship</b>
+<br />
+Readable, useful software
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## ✨ What I Like Building
+## GitHub Pulse
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Developer%20Tools-020617?style=for-the-badge&logo=gnometerminal&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/CLI%20Apps-020617?style=for-the-badge&logo=python&logoColor=FACC15" />
-<img src="https://img.shields.io/badge/Full--Stack%20Apps-020617?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Workflows-020617?style=for-the-badge&logo=openai&logoColor=10B981" />
-<img src="https://img.shields.io/badge/Open%20Source-020617?style=for-the-badge&logo=github&logoColor=white" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=sureshreddy197&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&icon_color=9333EA" />
+
+<br /><br />
+
+<img width="100%" src="https://streak-stats.demolab.com?user=sureshreddy197&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=9333EA&currStreakLabel=38BDF8" />
+
+<br /><br />
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshreddy197&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" />
+
+<br /><br />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sureshreddy197&theme=tokyo-night&hide_border=true&bg_color=020617&color=38BDF8&line=9333EA&point=FFFFFF" />
 
 </div>
 
 ---
 
-## 🧩 My Development Style
+## Current Focus
 
-```text
-Clean structure      → easy to read and maintain
-Useful features      → built for real workflows
-Good documentation   → simple to understand and run
-Polished experience  → sharp UI, CLI, and developer experience
-Continuous learning  → every project should make the next one better
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/01-Developer%20Tools-2563EB?style=for-the-badge&labelColor=020617" />
+<br />
+CLI tools, automation, and better workflows
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/02-Full--Stack%20Apps-9333EA?style=for-the-badge&labelColor=020617" />
+<br />
+Next.js, APIs, databases, auth, and dashboards
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/03-AI%20Workflows-22C55E?style=for-the-badge&labelColor=020617" />
+<br />
+Assistant systems, tool-calling, productivity apps
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📌 Current Focus
+## Philosophy
 
-- Building stronger **full-stack applications**
-- Improving **CLI and developer tooling** projects
-- Writing cleaner **TypeScript and Python**
-- Exploring practical **AI assistant workflows**
-- Creating better open-source documentation
+<div align="center">
+
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Make+it+simple.;Make+it+useful.;Make+it+clean.;Then+make+it+better." />
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## Connect
 
 <div align="center">
 
 <a href="https://github.com/sureshreddy197">
-  <img src="https://img.shields.io/badge/GitHub-sureshreddy197-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-sureshreddy197-020617?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/sureshreddy63">
   <img src="https://img.shields.io/badge/LinkedIn-Suresh%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -255,16 +257,12 @@ Continuous learning  → every project should make the next one better
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Let's+build+something+useful." />
+<b>Thanks for visiting. Let’s build something useful.</b>
 
 </div>
 
----
-
 <div align="center">
 
-### ⭐ Clean code. Useful tools. Better execution.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,45:2563EB,100:020617&height=130&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:9333EA,45:2563EB,100:020617" />
 
 </div>
